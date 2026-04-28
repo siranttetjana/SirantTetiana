@@ -1,51 +1,31 @@
+# Hi, I'm Tetiana Sirant 👋
 
+Junior QA Engineer focused on manual testing, bug reporting, test documentation, and API basics.
 
+I am actively developing practical QA skills and building a portfolio of real testing artifacts.
 
-# QA Portfolio 
+## Skills
 
-## About Me
-I am a Junior QA Engineer with a strong understanding of software testing principles, test design techniques, and experience in creating test documentation. I am familiar with web and API testing, SQL, and commonly used tools in manual testing.
+- Manual Testing
+- Functional Testing
+- UI Testing
+- Regression Testing
+- Smoke Testing
+- Bug Reporting
+- Test Cases
+- Checklists
+- API Testing (Postman)
+- SQL Basics
+- Jira
+- Agile / Scrum
 
----
+## Featured Projects
 
-## Portfolio
+- QA Portfolio
+- API Testing Practice
+- Test Cases & Checklists
 
-### 1. Test Documentation
-- [**Bug Reports**](https://github.com/siranttetjana/SirantTetiana/blob/main/Bug_Reports.pdf)  
+## Contact
 
-- [**Checklists**](https://github.com/siranttetjana/SirantTetiana/blob/main/CheckList.pdf)
-- [**TestCases**](https://github.com/siranttetjana/SirantTetiana/blob/main/TestCases_Registration.pdf) 
-   
-
----
-
-### 2. Test Design Techniques
-- **[Test Design Techniques PDF](https://github.com/siranttetjana/SirantTetiana/blob/main/Test%20Design.pdf)**  
-  Includes examples of the most common techniques:
-  - Equivalence Partitioning  
-  - Boundary Value Analysis  
-  - Decision Table  
-  - State Transition Diagram  
-  - Pairwise Testing  
-
----
-
-### 3. SQL Queries
-- **[SQL Queries examples](https://github.com/siranttetjana/SirantTetiana/blob/main/SQL_queries.pdf)**  
-  
-
-
-### 4. API Testing (Postman Collections)
-- **[Postman Collection Petstore](https://github.com/siranttetjana/SirantTetiana/blob/main/Postman_petstore.pdf)**
-
----
-
-### 5. XML / JSON Files
-Example API response formats and data files
-- [XML](https://github.com/siranttetjana/SirantTetiana/blob/main/XML_pets.png )
-- [JSON](https://github.com/siranttetjana/SirantTetiana/blob/main/JSON_visitors.png)
-
----
-
-## Tools & Technologies
-Manual Testing, Postman, Swagger, SQL (MySQL/PostgreSQL), Git & GitHub, Chrome DevTools, Jira, TestRail, JSON, XML, Visual Studio Code.
+LinkedIn: linkedin.com/in/tetiana-sirant  
+Email: tatiana.sirant101@gmail.com
